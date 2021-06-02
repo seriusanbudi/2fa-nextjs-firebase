@@ -1,0 +1,40 @@
+{
+  "name": "mfa-sample",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.5.1",
+    "axios": "^0.21.1",
+    "date-fns": "^2.21.3",
+    "firebase": "^8.6.3",
+    "framer-motion": "^4.1.17",
+    "next": "10.2.2",
+    "node-2fa": "^2.0.2",
+    "nuka-carousel": "^4.7.8",
+    "numeral": "^2.0.6",
+    "polished": "^4.1.2",
+    "qrcode.react": "^1.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.6.4",
+    "react-icons": "^4.2.0",
+    "react-redux": "^7.2.4",
+    "react-select": "^4.3.1",
+    "react-table": "^7.7.0",
+    "redux": "^4.1.0",
+    "styled-components": "^5.3.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "babel-plugin-styled-components": "latest",
+    "postcss": "^8.3.0",
+    "redux-devtools-extension": "^2.13.9",
+    "tailwindcss": "^2.1.2"
+  }
+}
